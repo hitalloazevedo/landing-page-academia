@@ -8,6 +8,8 @@ Landing page simples desenvolvida para academias, com a função de expandir os 
 
 **Client:** Html e Css
 
+(Desenvolvido para desktops) Não possui media queries para dispositivos móveis. 
+
 
 ## Screenshots
 
