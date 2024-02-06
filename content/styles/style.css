@@ -18,7 +18,7 @@ body {
     width: 100vw;
     display: flex;
     flex-direction: column;
-    background: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 1)), url("../img/img5.jpg");
+    background: linear-gradient(rgba(17, 17, 17, 0.603), rgba(20, 20, 20, 1)), url("../img/img5.jpg");
     background-position: center center;
     background-size: cover;
     background-position-y: 0px ;
@@ -35,7 +35,7 @@ header {
 }
 
 header h1 {
-    font-size: 1.2em;
+    font-size: 1.5em;
     letter-spacing: 0.2em;
     cursor: pointer;
 }
@@ -49,6 +49,7 @@ li > a {
     color: #fff;
     text-decoration: none;
     position: relative;
+    font-size: 1.2em;
 }
 
 li > a:before {
@@ -91,7 +92,7 @@ main {
 .main-content h2 {
     margin-bottom: 2em;
     text-transform: uppercase;
-    color: rgb(177, 177, 177);
+    color: #ddba43;
 }
 
 .main-buttons button {
@@ -107,7 +108,7 @@ main {
     color: #fff;
     border: 1px solid #fff;
     position: relative;
-    transition: 1.5s;
+    transition: .8s;
 }
 
 .main-buttons button:before {
