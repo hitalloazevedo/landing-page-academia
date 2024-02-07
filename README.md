@@ -15,3 +15,7 @@ Landing page simples desenvolvida para academias, com a função de expandir os 
 
 ![App Screenshot](https://i.pinimg.com/736x/37/dc/25/37dc25233c5a75249784738773bd0679.jpg)
 
+
+## Authors
+
+- [@Hitallo Azevedo](https://www.github.com/hitalloazevedo)
